@@ -5,6 +5,15 @@ Awesome Aeternity
 
 A curated list of awesome [aeternity](https://aeternity.com) resources
 
+## Community
+- [Forum](https://forum.aeternity.com) - Official platform for announcements and discussions
+- [AEXpansions](https://github.com/aeternity/AEXs) - Proposals for off-protocol standards
+
+## News and updates
+- [Blog](https://blog.aeternity.com/) - The Aeternity blog
+- [twitter/aeternity](https://twitter.com/aeternity) - Official twitter account
+- [twitter/aeternityTECH](https://twitter.com/aeternityTECH) - Tech updates
+
 ## Node and middleware
 
 - [Node](https://github.com/aeternity/aeternity) - The official aeternity node written in erlang
@@ -13,11 +22,6 @@ A curated list of awesome [aeternity](https://aeternity.com) resources
 
 ## Smart contracts
 - [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - The Aeternity smart contract language
-
-
-## Community
-- [Forum](https://forum.aeternity.com) - Official platform for announcements and discussions
-- [AEXpansions](https://github.com/aeternity/AEXs) - Proposals for off-protocol standards
 
 
 ## Wallets
@@ -50,6 +54,9 @@ A curated list of awesome [aeternity](https://aeternity.com) resources
 - [compiler.aepps.com](https://compiler.aepps.com) - Hosted Sophia compiler
 
 ## Tutorials and Examples
+
+There is an extensive list of [tutorials](https://github.com/aeternity/tutorials) to get started, the following are instead sample applications 
+
 - [Smart oracles in Elixir](https://github.com/DanielaIvanova/smart_oracle) - Oracles with Elixir
 - [Contracts in Java](https://github.com/kryptokrauts/contraect-showcase-maven) - Interact with contracts with Java
 - [4evaAens](https://github.com/u2467/4evaAens) - Auto bidding for aens (Javascript)
