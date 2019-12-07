@@ -22,7 +22,8 @@ A curated list of awesome [aeternity](https://aeternity.com) resources
 
 ## Smart contracts
 - [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - The Aeternity smart contract language
-
+- [Sophia CLI](https://github.com/aeternity/aesophia_cli) - The command line client for the Sophia compiler
+- [Sophia HTTP](https://github.com/aeternity/aesophia_http) - The http server exposing the Sophia compiler
 
 ## Wallets
 - [Airgap](https://airgap.it) - Offline secure wallet 
