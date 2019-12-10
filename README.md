@@ -14,10 +14,12 @@ A curated list of awesome [aeternity](https://aeternity.com) resources
 - [twitter/aeternity](https://twitter.com/aeternity) - Official twitter account
 - [twitter/aeternityTECH](https://twitter.com/aeternityTECH) - Tech updates
 
-## Node and middleware
-
-- [Node](https://github.com/aeternity/aeternity) - The official aeternity node written in erlang
+## Protocol
 - [Protocol specification](https://github.com/aeternity/protocol) - Documentation about the the aeternty protocol
+
+## Node and middleware
+- [Node](https://github.com/aeternity/aeternity) - The official aeternity node written in erlang
+- [Node documentation](http://docs.aeternity.io/en/stable/) - Documentation about operating a the official node implementation
 - [Aeternal](https://github.com/aeternity/aeternal) - Node middleware
 
 ## Smart contracts
