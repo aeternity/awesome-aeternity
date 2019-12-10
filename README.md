@@ -19,7 +19,7 @@ A curated list of awesome [aeternity](https://aeternity.com) resources
 
 ## Node and middleware
 - [Node](https://github.com/aeternity/aeternity) - The official aeternity node written in erlang
-- [Node documentation](http://docs.aeternity.io/en/stable/) - Documentation about operating the official node implementation
+- [Node documentation](http://docs.aeternity.io) - Documentation about operating the official node implementation
 - [Aeternal](https://github.com/aeternity/aeternal) - Node middleware
 
 ## Smart contracts
