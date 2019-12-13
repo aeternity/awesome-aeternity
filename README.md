@@ -62,5 +62,7 @@ There is an extensive list of [tutorials](https://github.com/aeternity/tutorials
 
 - [Smart oracles in Elixir](https://github.com/DanielaIvanova/smart_oracle) - Oracles with Elixir
 - [Contracts in Java](https://github.com/kryptokrauts/contraect-showcase-maven) - Interact with contracts with Java
-- [4evaAens](https://github.com/u2467/4evaAens) - Auto bidding for aens (Javascript)
-- [4evaAens](https://github.com/DanielaIvanova/forever_aens) - Auto bidding for aens (Elixir)
+- [4evaAens](https://github.com/u2467/4evaAens) - Auto bidding for aens (Javascript) - from Hack&Play/11.2019
+- [4evaAens](https://github.com/DanielaIvanova/forever_aens) - Auto bidding for aens (Elixir) - from Hack&Play/11.2019
+- [AENS Marketplace](https://github.com/DanielaIvanova/name_marketplace) - Marketplace for AENS (Elixir) - from Hack&Play/11.2019
+- [AENS Marketplace](https://github.com/u2467/aens-marketplace) - Marketpalce for AENS (Python/Sophia) - from Hack&Play/11.2019 
