@@ -1,7 +1,7 @@
 Awesome Aeternity 
 ===========
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/u2467/awesome-aeternity)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aeternity/awesome-aeternity)
 
 A curated list of awesome [aeternity](https://aeternity.com) resources
 
@@ -14,15 +14,18 @@ A curated list of awesome [aeternity](https://aeternity.com) resources
 - [twitter/aeternity](https://twitter.com/aeternity) - Official twitter account
 - [twitter/aeternityTECH](https://twitter.com/aeternityTECH) - Tech updates
 
-## Node and middleware
-
-- [Node](https://github.com/aeternity/aeternity) - The official aeternity node written in erlang
+## Protocol
 - [Protocol specification](https://github.com/aeternity/protocol) - Documentation about the the aeternty protocol
+
+## Node and middleware
+- [Node](https://github.com/aeternity/aeternity) - The official aeternity node written in erlang
+- [Node documentation](http://docs.aeternity.io) - Documentation about operating the official node implementation
 - [Aeternal](https://github.com/aeternity/aeternal) - Node middleware
 
 ## Smart contracts
 - [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - The Aeternity smart contract language
-
+- [Sophia CLI](https://github.com/aeternity/aesophia_cli) - The command line client for the Sophia compiler
+- [Sophia HTTP](https://github.com/aeternity/aesophia_http) - The http server exposing the Sophia compiler
 
 ## Wallets
 - [Airgap](https://airgap.it) - Offline secure wallet 
@@ -59,6 +62,8 @@ There is an extensive list of [tutorials](https://github.com/aeternity/tutorials
 
 - [Smart oracles in Elixir](https://github.com/DanielaIvanova/smart_oracle) - Oracles with Elixir
 - [Contracts in Java](https://github.com/kryptokrauts/contraect-showcase-maven) - Interact with contracts with Java
-- [4evaAens](https://github.com/u2467/4evaAens) - Auto bidding for aens (Javascript)
-- [4evaAens](https://github.com/DanielaIvanova/forever_aens) - Auto bidding for aens (Elixir)
+- [4evaAens](https://github.com/u2467/4evaAens) - Auto bidding for aens (Javascript) - from Hack&Play/11.2019
+- [4evaAens](https://github.com/DanielaIvanova/forever_aens) - Auto bidding for aens (Elixir) - from Hack&Play/11.2019
+- [AENS Marketplace](https://github.com/DanielaIvanova/name_marketplace) - Marketplace for AENS (Elixir) - from Hack&Play/11.2019
+- [AENS Marketplace](https://github.com/u2467/aens-marketplace) - Marketpalce for AENS (Python/Sophia) - from Hack&Play/11.2019 
 - [TypeScript demo](https://github.com/gcofficial/ae-typescript-demo) - Use the JS SDK with TypeScript
