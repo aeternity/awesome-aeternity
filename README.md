@@ -61,3 +61,4 @@ There is an extensive list of [tutorials](https://github.com/aeternity/tutorials
 - [Contracts in Java](https://github.com/kryptokrauts/contraect-showcase-maven) - Interact with contracts with Java
 - [4evaAens](https://github.com/u2467/4evaAens) - Auto bidding for aens (Javascript)
 - [4evaAens](https://github.com/DanielaIvanova/forever_aens) - Auto bidding for aens (Elixir)
+- [TypeScript demo](https://github.com/gcofficial/ae-typescript-demo) - Use the JS SDK with TypeScript
