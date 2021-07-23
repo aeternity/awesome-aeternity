@@ -83,6 +83,7 @@ Other places to get in touch:
 
 ## Whitepaper
 - [2017 Whitepaper](https://blockchainlab.com/pdf/%91ternity-blockchain-whitepaper.pdf) - The original whitepaper.
+    - Repository: https://github.com/aeternity/whitepaper
 - [2020 Whitepaper](https://github.com/keypair/white-paper/blob/master/aeternity-whitepaper.pdf) - Draft that reflects the current state.
     - Repository: https://github.com/aeternity/white-paper
 
@@ -135,14 +136,14 @@ Community developed middleware:
 - [AEknow](https://aeknow.org) - Explorer that also shows mining stats developed by the community.
     - https://github.com/jdgcs/aeknow
 - [aenalytics](https://aenalytics.org) - Explorer with focus on UX and the aeternity naming system (AENS).
-- [Indaex](https://explorer.aeternity.io) - Default explorer provided by aeternity.
+- [aeternity explorer](https://explorer.aeternity.io) - Default explorer provided by aeternity.
     - https://github.com/aeternity/mdw-frontend
 - https://ae.criesca.net:3011/explorer/dashboard.html
     - https://github.com/kryztoval/aepp-middleware-mn/tree/master/explorer
 
 ### Testnet
 - [aenalytics](https://testnet.aenalytics.org) - Explorer with focus on UX and the aeternity naming system (AENS).
-- [Indaex](https://explorer.testnet.aeternity.io) - Default explorer provided by aeternity.
+- [aeternity explorer](https://explorer.testnet.aeternity.io) - Default explorer provided by aeternity.
 
 ## Faucets
 - [aepp-faucet](https://faucet.aepps.com) - Get AE tokens to play around on testnet.
@@ -223,6 +224,7 @@ Community developed middleware:
 - [aesophia_http](https://github.com/aeternity/aesophia_http) - The http interface to the Sophia compiler.
 
 ###### REPL (read–eval–print loop)
+- [REPL](https://repl.aeternity.io) - Access to the hosted web application.
 - [aerepl](https://github.com/aeternity/aerepl) - A read–eval–print loop (REPL) Sophia in an interactive way.
 - [aerepl_http](https://github.com/aeternity/aerepl_http) - A simple web application which provides an interface to aerepl.
 
