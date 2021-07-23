@@ -1,6 +1,8 @@
 # Awesome Aeternity [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="logo.svg" align="right" height="40">](https://aeternity.com)
+<p align="center">
+    <img src="logo.svg" height="40">
+</p>
 
 The aeternity blockchain is an Erlang-based scalable smart contract platform engineered by programming pioneers to address some of the most fundamental challenges native to earlier blockchains. By redesigning blockchain technology at the protocol level, the aeternity developer community has enabled the core protocol to understand and integrate a rich set of functionalities out of the box.
 
