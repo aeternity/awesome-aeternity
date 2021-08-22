@@ -1,16 +1,16 @@
-# Awesome Aeternity [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Æternity [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
     <img src="logo.svg" height="40">
 </p>
 
-The aeternity blockchain is an Erlang-based scalable smart contract platform engineered by programming pioneers to address some of the most fundamental challenges native to earlier blockchains. By redesigning blockchain technology at the protocol level, the aeternity developer community has enabled the core protocol to understand and integrate a rich set of functionalities out of the box.
+The æternity blockchain is an Erlang-based scalable smart contract platform engineered by programming pioneers to address some of the most fundamental challenges native to earlier blockchains. By redesigning blockchain technology at the protocol level, the æternity developer community has enabled the core protocol to understand and integrate a rich set of functionalities out of the box.
 
 ## Contents
 
 - [News and Updates](#news-and-updates)
 - [Community](#community)
-  - [Aembassadors](#aembassadors)
+  - [æmbassadors](#æmbassadors)
   - [Bounties](#bounties)
   - [Grants](#grants)
   - [Initiatives](#initiatives)
@@ -37,7 +37,7 @@ The aeternity blockchain is an Erlang-based scalable smart contract platform eng
   - [CLIs, other Plugins & Libraries](#clis-other-plugins--libraries)
   - [Examples & Code-Snippets](#examples--code-snippets)
   - [Hackathons](#hackathons)
-- [Decentralized Applications (aepps)](#decentralized-applications-aepps)
+- [Decentralized Applications (æpps)](#decentralized-applications-æpps)
 - [Education](#education)
   - [Courses](#courses)
   - [Documentation](#documentation)
@@ -45,7 +45,7 @@ The aeternity blockchain is an Erlang-based scalable smart contract platform eng
 - [Exchanges](#exchanges)
 
 ## News and Updates
-- https://blog.aeternity.com/ - The aeternity blog.
+- https://blog.aeternity.com/ - The æternity blog.
 - https://twitter.com/aeternity - Official Twitter account.
 - https://twitter.com/aeternityTECH - Tech updates.
     - Currently not actively managed
@@ -58,17 +58,18 @@ For questions & discussions check out the official [Forum](https://forum.aeterni
 Other places to get in touch:
 - [Discord](https://discord.gg/Htq9YdHyT4)
 - Telegram
-    - [aeternity](https://t.me/joinchat/QHJopU1Xol0qptG8) - English only channel!
-    - [aeternity trading channel](https://t.me/aeternitytrading) - Unofficial channel.
+    - [æternity](https://t.me/joinchat/QHJopU1Xol0qptG8) - English only channel!
+    - [æternity trading channel](https://t.me/aeternitytrading) - Unofficial channel.
     - [Superhero](https://t.me/superherocom)
 - [Reddit](https://www.reddit.com/r/Aeternity)
 - [YouTube](https://www.youtube.com/channel/UCEsM0b7QPazeMR80DxNkzCA)
 
-### Aembassadors
+### æmbassadors
 - https://blog.aeternity.com/announcing-%C3%A6ternitys-aembassador-program-56e41b47c9f1
 - https://medium.com/aeternity-crypto-foundation/around-the-world-with-our-%C3%A6mbassadors-see-where-weve-been-f3cba316339f
 
 ### Bounties
+- https://github.com/aeternity/bounties
 - https://forum.aeternity.com/tag/bounties
 
 ### Grants
@@ -79,7 +80,7 @@ Other places to get in touch:
 - [AEkiti](https://aekiti.com) - Community of developers in Ekiti.
     - https://aekiti.medium.com/
     - https://github.com/aekiti/devstudyjaem-ekiti
-- [Jaem Sessions](https://forum.aeternity.com/t/introducing-jaem-sessions/9554) - Regular virtual developer meetings.
+- [Jæm sessions](https://forum.aeternity.com/t/introducing-jaem-sessions/9554) - Regular virtual developer meetings.
 
 ## Whitepaper
 - [2017 Whitepaper](https://blockchainlab.com/pdf/%91ternity-blockchain-whitepaper.pdf) - The original whitepaper.
@@ -88,7 +89,7 @@ Other places to get in touch:
     - Repository: https://github.com/aeternity/white-paper
 
 ## Protocol
-The specification of the aeternity protocol can be found here:
+The specification of the æternity protocol can be found here:
 - https://github.com/aeternity/protocol
 
 For off-protocol standard proposals check out the AEXpansions:
@@ -97,8 +98,8 @@ For off-protocol standard proposals check out the AEXpansions:
 ## Infrastructure & core components
 
 ### Node and Middleware
-- [aeternity](https://github.com/aeternity/aeternity) - The official aeternity node written in Erlang.
-- [ae_mdw](https://github.com/aeternity/ae_mdw) - The official aeternity middleware written in Elixir.
+- [æternity](https://github.com/aeternity/aeternity) - The official æternity node written in Erlang.
+- [ae_mdw](https://github.com/aeternity/ae_mdw) - The official æternity middleware written in Elixir.
     - Uses a plugin architecture where the node itself serves as extension to the middleware.
 
 **Note**
@@ -109,7 +110,7 @@ Community developed middleware:
 - [aepp-middleware-mn](https://github.com/kryztoval/aepp-middleware-mn) - Middleware implementation written in Node.js.
 
 ### Virtual Machine
-- [aebytecode](https://github.com/aeternity/aebytecode) - Library and stand alone assembler for aeternity bytecode.
+- [aebytecode](https://github.com/aeternity/aebytecode) - Library and stand alone assembler for æternity bytecode.
 
 ## Official Hosted Services
 
@@ -128,22 +129,22 @@ Community developed middleware:
 **Note**
 - Everybody is encouraged to host their own infrastructure
     - https://blog.aeternity.com/why-run-an-ae-node-and-how-to-do-it-8b95a685f683
-- You should ***never*** rely on the hosted infrastructure of aeternity for applications running in production!
+- You should ***never*** rely on the hosted infrastructure of æternity for applications running in production!
 
 ## Explorers
 
 ### Mainnet
 - [AEknow](https://aeknow.org) - Explorer that also shows mining stats developed by the community.
     - https://github.com/jdgcs/aeknow
-- [aenalytics](https://aenalytics.org) - Explorer with focus on UX and the aeternity naming system (AENS).
-- [aeternity explorer](https://explorer.aeternity.io) - Default explorer provided by aeternity.
+- [aenalytics](https://aenalytics.org) - Explorer with focus on UX and the æternity naming system (AENS).
+- [æternity explorer](https://explorer.aeternity.io) - Default explorer provided by æternity.
     - https://github.com/aeternity/mdw-frontend
 - https://ae.criesca.net:3011/explorer/dashboard.html
     - https://github.com/kryztoval/aepp-middleware-mn/tree/master/explorer
 
 ### Testnet
-- [aenalytics](https://testnet.aenalytics.org) - Explorer with focus on UX and the aeternity naming system (AENS).
-- [aeternity explorer](https://explorer.testnet.aeternity.io) - Default explorer provided by aeternity.
+- [aenalytics](https://testnet.aenalytics.org) - Explorer with focus on UX and the æternity naming system (AENS).
+- [æternity explorer](https://explorer.testnet.aeternity.io) - Default explorer provided by æternity.
 
 ## Faucets
 - [aepp-faucet](https://faucet.aepps.com) - Get AE tokens to play around on testnet.
@@ -152,7 +153,7 @@ Community developed middleware:
 ## Wallets
 
 ### Browser extensions
-- Superhero Wallet - The most advanced aeternity wallet with additional features for Superhero.com.
+- Superhero Wallet - The most advanced æternity wallet with additional features for Superhero.com.
     - [Brave / Chrome](https://chrome.google.com/webstore/detail/superhero/mnhmmkepfddpifjkamaligfeemcbhdne?hl=en)
     - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superhero-wallet/)
 - [Waellet](https://github.com/waellet/waellet) - Currently not actively developed.
@@ -190,14 +191,14 @@ Community developed middleware:
     - [Android / APK](https://trustwallet.com/dl/apk)
     - [Android / Store](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
     - [iOS](https://apps.apple.com/app/apple-store/id1288339409#?platform=iphone)
-- [Superhero Wallet](https://github.com/aeternity/superhero-wallet) - The most advanced aeternity wallet with additional features for Superhero.com.
+- [Superhero Wallet](https://github.com/aeternity/superhero-wallet) - The most advanced æternity wallet with additional features for Superhero.com.
     - [Android / APK](https://github.com/aeternity/superhero-wallet/releases)
     - [Android / Store](https://play.google.com/store/apps/details?id=com.superhero.cordova)
     - [iOS](https://apps.apple.com/ro/app/superhero-wallet/id1502786641)
 
 **Note**
-- Base aepp is currently the only wallet that has support for Ledger hardware wallet
-- The creation of subaccounts is currently also only available via Base aepp
+- Base æpp is currently the only wallet that has support for Ledger hardware wallet
+- The creation of subaccounts is currently also only available via Base æpp
     - It's also possible to derive subaccounts in advanced mode using AirGap
 
 ## Development
@@ -247,23 +248,23 @@ Community developed middleware:
         - https://medium.com/hack/aeternity-sophia-language-visual-studio-code-extension-a326258fb399
 
 ###### Smart Contract Standards
-- [Aeternity Fungible Token](https://github.com/mradkov/aeternity-fungible-token) - The reference implementation of the AEX-9 standard.
-- Aeternity NFT
+- [æternity fungible token](https://github.com/mradkov/aeternity-fungible-token) - The reference implementation of the AEX-9 standard.
+- æternity NFT
     - WIP, see https://forum.aeternity.com/t/active-aeternity-nft-standard-and-implementation/9146
 
 ###### Starters / Boilerplates (Full-stack)
 - [aepp-boilerplate-vue](https://github.com/aeternity/aepp-boilerplate-vue) - Provides a build pipeline, wallet discovery (AEX-2) & styled components.
 
 ### CLIs, other Plugins & Libraries
-- [aepp-calldata-js](https://github.com/aeternity/aepp-calldata-js) - Library to enable clientside encoding/decoding (integration not finished yet).
-- [aepp-cli-js](https://github.com/aeternity/aepp-cli-js) - A command line interface for the aeternity blockchain.
+- [aepp-calldata-js](https://github.com/aeternity/aepp-calldata-js) - Library to enable client-side encoding/decoding.
+- [aepp-cli-js](https://github.com/aeternity/aepp-cli-js) - A command line interface for the æternity blockchain.
 - [app-aeternity](https://github.com/LedgerHQ/app-aeternity) - Wallet application framework for Ledger.
 - [contraect-maven-plugin](https://github.com/kryptokrauts/contraect-maven-plugin) - A plugin to generate Java classes to easily interact with Smart Contracts on the JVM.
 - [hd-wallet-js](https://github.com/aeternity/hd-wallet-js) - HD wallet library.
 
 **Note**
 - The tools for Smart Contract interactions currently rely on the http compiler of Sophia for compiling contracts as well as encoding/decoding of calldata.
-- Aeternity is aiming to solve that problem by providing a way to transpile Erlang to PureScript
+- æternity is aiming to solve that problem by providing a way to transpile Erlang to PureScript
     - https://blog.aeternity.com/erlscripten-92c815786987
     - https://github.com/erlscripten
 
@@ -301,22 +302,22 @@ Community developed middleware:
 - 21.04.2021 - 07.05.2021, [Akshwani Haeck](https://akshwanihaeck.devpost.com/) - Real world data, straight into the blocks!
 - 10.11.2020 - 10.12.2020, [Human DeFi Haeck](https://humandefihaeck.devpost.com/) - Because DeFi can make life better for everyone.
     - https://blog.aeternity.com/the-human-defi-h%C3%A6ck-winners-announcement-ca1777f374e6
-- 14.09.2019 - 15.09.2020, [Aeternity Universe One Haeckathon](https://aeternityuniverse.com/haeckathon)
+- 14.09.2019 - 15.09.2020, [æternity Universe One Hæckathon](https://aeternityuniverse.com/haeckathon)
     - Winners announcement: https://www.youtube.com/watch?v=tVCHP9L9xXA
     - https://github.com/aeternity/hackathon-prague
     - https://kryptokrauts.com/log/kryptokrauts-wins-aeternity-hackathon
     - https://hack.bg/blog/events/aeternity-universe-one/
-- 27.11.2017 - 15.12.2017, [aepps Hackathon](https://blog.aeternity.com/aepps-hackathon-16e2d4f3e7d4)
+- 27.11.2017 - 15.12.2017, [æpps Hackathon](https://blog.aeternity.com/aepps-hackathon-16e2d4f3e7d4)
     - https://blog.aeternity.com/announcing-the-top-3-hackathon-%C3%A6pps-a8e39b11764
 
-## Decentralized Applications (aepps)
+## Decentralized Applications (æpps)
 
-###### aeternity projects
-- [Governance aepp](https://governance.aeternity.com) - Voting for governance proposals with a delegated weighted polling mechanism.
+###### æternity projects
+- [Governance æpp](https://governance.aeternity.com) - Voting for governance proposals with a delegated weighted polling mechanism.
     - https://github.com/aeternity/aepp-governance
-- [Graffiti aepp](https://graffiti.aeternity.com)
+- [Graffiti æpp](https://graffiti.aeternity.com)
     - https://github.com/aeternity/aepp-graffiti
-- [Hybrid Voting](http://aeternity.com/aepp-hybrid-voting/) - Hybrid voting aepp that collected votes on Ethereum and aeternity for the BRI vote.
+- [Hybrid Voting](http://aeternity.com/aepp-hybrid-voting/) - Hybrid voting æpp that collected votes on Ethereum and æternity for the BRI vote.
     - https://github.com/aeternity/aepp-hybrid-voting
 - [Superhero](https://superhero.com) - A user-centric, open source, decentralized - P2P social platform that elevates the impact of communities and user generated content with the help of blockchain technology.
     - Source Code:
@@ -330,7 +331,7 @@ Community developed middleware:
         - https://blog.aeternity.com/wiki-how-superhero-voting-works-86eae25b6a3a
         - https://blog.aeternity.com/superhero-rises-its-time-to-fight-back-d11b4494bcc0
         - https://kryptokrauts.com/log/superhero-a-truly-decentralized-social-tipping-platform
-- [Token Migration](https://migrate.aeternity.io) - This aepp helps you migrating old Ethereum based ERC-20 tokens.
+- [Token Migration](https://migrate.aeternity.io) - This æpp helps you migrating old Ethereum based ERC-20 tokens.
     - https://github.com/aeternity/aepp-token-migration-holders
     - https://github.com/aeternity/aepp-token-migration-smart-contract
     - https://github.com/aeternity/aepp-token-migration-backend
@@ -361,7 +362,7 @@ empowering both the driver and rider communities.
     - https://blog.aeternity.com/in-the-spotlight-vereign-69413d58f041
     - https://www.youtube.com/watch?v=SoNrLswGae0
 - [WeiDex](https://github.com/weidex-team/weidex-ae) - Implementation of an exchange in Sophia.
-- [WeTrue](https://wetrue.io) - Social aepp developed by the Chinese community.
+- [WeTrue](https://wetrue.io) - Social æpp developed by the Chinese community.
 
 ###### Blog articles
 - https://blog.aeternity.com/%C3%A6ternity-for-all-bbf11ab79073
@@ -370,23 +371,23 @@ empowering both the driver and rider communities.
 ## Education
 
 ### Courses
-- [Dacade](https://dacade.org/ae-dev-101/submissions) - An online learning platform that provides an introduction course to aeternity and smart contract development.
-- Sophia Courses
-    - [Basic Course](https://drive.google.com/file/d/1NIhiVcByLmg9VcTcHqxcVo7oT112Bz2O/view)
-    - [Intermediate](https://drive.google.com/file/d/1k6vAWLLDePMaOX5-hD69JIKpDWqTuXf3/view)
+- [Dacade](https://dacade.org/ae-dev-101/submissions) - An online learning platform that provides an introduction course to æternity and smart contract development.
+- Sophia courses
+    - [Basic course](https://drive.google.com/file/d/1NIhiVcByLmg9VcTcHqxcVo7oT112Bz2O/view)
+    - [Intermediate course](https://drive.google.com/file/d/1k6vAWLLDePMaOX5-hD69JIKpDWqTuXf3/view)
 
 ### Documentation
-- [Documentation Hub](https://aeternity.com/documentation-hub) - An aggregation of all important docs to easily get started with aeternity.
+- [Documentation Hub](https://aeternity.com/documentation-hub) - An aggregation of all important docs to easily get started with æternity.
     - Currently being revisited. Some parts might be outdated right now.
 - https://github.com/aeternity/tutorials - Collection of various tutorials
     - Some of those tutorials are currently outdated!
 
 ### Videos
-- [aeternity development](https://www.youtube.com/watch?v=POVc5pLthAI&list=PLZTjth8D1qBd47Qs3miHKtrHrxPzFpQ-3) - YouTube Playlist with educational content on aeternity development.
-- [aeternity Developers and Researchers - Weekly updates](https://www.youtube.com/watch?v=df19MoKISVk&list=PLZTjth8D1qBfz8giWgAuMwBr88JCQNHp1) - YouTube Playlist with all updates that were publicly discussed in the past.
-- [aeternity Universe One - interviews](https://www.youtube.com/watch?v=U0hBNqtwwV0&list=PLZTjth8D1qBel9nv0EA4UOrUeV3o7Crf4) - YouTube Playlist containing all interviews of the aeternity Universe One conference.
-- [aeternity Universe One - event presentations](https://www.youtube.com/playlist?list=PLZTjth8D1qBcd7GZmJ0Od5CTRei232hac) - YouTube Playlist containing all event presentations of the aeternity Universe One conference.
-- [aeternity Webinars](https://www.youtube.com/watch?v=zNYa0V8dUiE&list=PLZTjth8D1qBe8H_79KlR3BVLkDOdqIJk1) - YouTube Playlist with webinars that were hosted in the past.
+- [æternity development](https://www.youtube.com/watch?v=POVc5pLthAI&list=PLZTjth8D1qBd47Qs3miHKtrHrxPzFpQ-3) - YouTube Playlist with educational content on æternity development.
+- [æternity Developers and Researchers - Weekly updates](https://www.youtube.com/watch?v=df19MoKISVk&list=PLZTjth8D1qBfz8giWgAuMwBr88JCQNHp1) - YouTube Playlist with all updates that were publicly discussed in the past.
+- [æternity Universe One - interviews](https://www.youtube.com/watch?v=U0hBNqtwwV0&list=PLZTjth8D1qBel9nv0EA4UOrUeV3o7Crf4) - YouTube Playlist containing all interviews of the æternity Universe One conference.
+- [æternity Universe One - event presentations](https://www.youtube.com/playlist?list=PLZTjth8D1qBcd7GZmJ0Od5CTRei232hac) - YouTube Playlist containing all event presentations of the æternity Universe One conference.
+- [æternity Webinars](https://www.youtube.com/watch?v=zNYa0V8dUiE&list=PLZTjth8D1qBe8H_79KlR3BVLkDOdqIJk1) - YouTube Playlist with webinars that were hosted in the past.
 - [Community developer tutorials](https://www.youtube.com/playlist?list=PLZTjth8D1qBciVMK1xU56SSzTOZBSazot) - YouTube Playlist with videos created by the community.
 
 ## Exchanges
