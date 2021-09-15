@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Awesome Æternity [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
