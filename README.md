@@ -10,7 +10,7 @@ The æternity blockchain is an Erlang-based scalable smart contract platform eng
 
 - [News and Updates](#news-and-updates)
 - [Community](#community)
-  - [æUnited](#æUnited)
+  - [æUnited](#æunited)
   - [Bounties](#bounties)
   - [Grants](#grants)
   - [Initiatives](#initiatives)
