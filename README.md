@@ -10,7 +10,7 @@ The æternity blockchain is an Erlang-based scalable smart contract platform eng
 
 - [News and Updates](#news-and-updates)
 - [Community](#community)
-  - [æmbassadors](#æmbassadors)
+  - [æUnited](#æUnited)
   - [Bounties](#bounties)
   - [Grants](#grants)
   - [Initiatives](#initiatives)
@@ -65,16 +65,16 @@ Other places to get in touch:
 - [Reddit](https://www.reddit.com/r/Aeternity)
 - [YouTube](https://www.youtube.com/channel/UCEsM0b7QPazeMR80DxNkzCA)
 
-### æmbassadors
-- https://blog.aeternity.com/announcing-%C3%A6ternitys-aembassador-program-56e41b47c9f1
-- https://medium.com/aeternity-crypto-foundation/around-the-world-with-our-%C3%A6mbassadors-see-where-weve-been-f3cba316339f
+### æUnited
+- https://blog.aeternity.com/launching-the-future-of-open-source-collaboration-bc677a4049ff
+- https://forum.aeternity.com/tag/ae-united
 
 ### Bounties
 - https://github.com/aeternity/bounties
-- https://forum.aeternity.com/tag/bounties
 
 ### Grants
 - https://www.aeternity-foundation.org
+- https://forum.aeternity.com/c/li-foundation/grant/
 
 ### Initiatives
 - [AEChina](https://www.aechina.io) - News & updates for the Chinese community.
