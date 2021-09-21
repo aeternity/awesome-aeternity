@@ -92,7 +92,7 @@ Other places to get in touch:
 ## Protocol
 The specification of the æternity protocol can be found here:
 
-- https://github.com/aeternity/protocol
+- https://aeternity.com/protocol
 
 For off-protocol standard proposals check out the AEXpansions:
 
@@ -102,13 +102,15 @@ For off-protocol standard proposals check out the AEXpansions:
 
 ### Node and Middleware
 - [æternity](https://github.com/aeternity/aeternity) - The official æternity node written in Erlang.
+    - Documentation: https://docs.aeternity.io
+    - API Documentation: https://api-docs.aeternity.io
 - [ae_mdw](https://github.com/aeternity/ae_mdw) - The official æternity middleware written in Elixir.
     - Uses a plugin architecture where the node itself serves as extension to the middleware.
 
 **Note**
 
 - You can download the latest release as well as backups for mainnet or testnet here: https://downloads.aeternity.io
-- For the middleware currently no snapshots exists and a full sync is required
+- For the middleware currently no snapshots exists and a full sync is required.
 
 Community developed middleware:
 - [aepp-middleware-mn](https://github.com/kryztoval/aepp-middleware-mn) - Middleware implementation written in Node.js.
@@ -153,7 +155,7 @@ Community developed middleware:
 
 ## Faucets
 - [aepp-faucet](https://faucet.aepps.com) - Get AE tokens to play around on testnet.
-    - https://github.com/aeternity/aepp-faucet
+    - https://github.com/aeternity/aepp-faucet-nodejs
 
 ## Wallets
 
@@ -213,11 +215,14 @@ Community developed middleware:
 
 ###### Official, maintained
 - [aepp-sdk-js](https://github.com/aeternity/aepp-sdk-js)
+    - Documentation: https://aeternity.com/aepp-sdk-js
 
 ###### Official, but support (currently) discontinued
 - [aepp-sdk-elixir](https://github.com/aeternity/aepp-sdk-elixir) - Outdated.
+    - Documentation: https://aeternity.com/aepp-sdk-elixir
 - [aepp-sdk-go](https://github.com/aeternity/aepp-sdk-go) - Iris compatible, some features (e.g. `PayingForTx`) missing.
 - [aepp-sdk-python](https://github.com/aeternity/aepp-sdk-python) - Outdated, can still be used for regular `SpendTx`.
+    - Documentation: https://aepp-sdk-python.readthedocs.io
 
 ###### Community
 - [aepp-sdk-java](https://github.com/kryptokrauts/aepp-sdk-java) - Currently outdated, full Iris compatibility coming with v3.0.0.
@@ -227,6 +232,7 @@ Community developed middleware:
 
 ###### Compiler
 - [aesophia](https://github.com/aeternity/aesophia) - Stand alone compiler for the Sophia smart contract language.
+    - Documentation: https://aeternity.com/aesophia
 - [aesophia_cli](https://github.com/aeternity/aesophia_cli) - The command line client for the Sophia compiler.
 - [aesophia_http](https://github.com/aeternity/aesophia_http) - The http interface to the Sophia compiler.
 
@@ -256,7 +262,7 @@ Community developed middleware:
 ###### Smart Contract Standards
 - [æternity fungible token](https://github.com/mradkov/aeternity-fungible-token) - The reference implementation of the AEX-9 standard.
 - æternity NFT
-    - WIP, see https://forum.aeternity.com/t/active-aeternity-nft-standard-and-implementation/9146
+    - WIP, see https://forum.aeternity.com/t/aeternity-nft-token-standard/9781
 
 ###### Starters / Boilerplates (Full-stack)
 - [aepp-boilerplate-vue](https://github.com/aeternity/aepp-boilerplate-vue) - Provides a build pipeline, wallet discovery (AEX-2) & styled components.
