@@ -59,9 +59,12 @@ Other places to get in touch:
 
 - [Discord](https://discord.gg/Htq9YdHyT4)
 - Telegram
-    - [æternity](https://t.me/joinchat/QHJopU1Xol0qptG8) - English only channel!
-    - [æternity trading channel](https://t.me/aeternitytrading) - Unofficial channel.
-    - [Superhero](https://t.me/superherocom)
+    - [æternity](https://t.me/joinchat/QHJopU1Xol0qptG8) - Official English channel.
+    - [æternity [RU]](https://t.me/aeternityRU) - Official Russian channel.
+    - [æternity Español](https://t.me/aeternityEsp) - Official Spanish channel.
+    - [Superhero](https://t.me/superherocom) - Official channel to discuss Superhero.
+    - [AE中国社区(Wetrue)](https://t.me/AEChinaCommunity) - Community maintained Chinese channel.
+    - [æternity trading](https://t.me/aeternitytrading) - Community maintained channel for trading discussions.
 - [Reddit](https://www.reddit.com/r/Aeternity)
 - [YouTube](https://www.youtube.com/channel/UCEsM0b7QPazeMR80DxNkzCA)
 
