@@ -67,6 +67,7 @@ Other places to get in touch:
     - [æternity trading](https://t.me/aeternitytrading) - Community maintained channel for trading discussions.
 - [Reddit](https://www.reddit.com/r/Aeternity)
 - [YouTube](https://www.youtube.com/channel/UCEsM0b7QPazeMR80DxNkzCA)
+- [LinkedIn](https://www.linkedin.com/company/aeternity/)
 
 ### æUnited
 - https://blog.aeternity.com/launching-the-future-of-open-source-collaboration-bc677a4049ff
