@@ -347,7 +347,7 @@ Community developed middleware:
         - https://blog.aeternity.com/superhero-how-to-send-receive-superhero-tips-34971b18c919
         - https://blog.aeternity.com/wiki-how-superhero-voting-works-86eae25b6a3a
         - https://blog.aeternity.com/superhero-rises-its-time-to-fight-back-d11b4494bcc0
-        - https://kryptokrauts.com/log/superhero-a-truly-decentralized-social-tipping-platform
+        - https://github.com/kryptokrauts/kk-website/blob/master/src/data/log/2020-06-14-superhero-a-truly-decentralized-tipping-platform.md
 - [Token Migration](https://migrate.aeternity.io) - This æpp helps you migrating old Ethereum based ERC-20 tokens.
     - https://github.com/aeternity/aepp-token-migration-holders
     - https://github.com/aeternity/aepp-token-migration-smart-contract
